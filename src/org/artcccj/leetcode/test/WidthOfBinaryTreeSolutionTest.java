@@ -1,5 +1,7 @@
-package org.artcccj.leetcode.binary.tree;
+package org.artcccj.leetcode.test;
 
+import org.artcccj.leetcode.binary.tree.TreeNode;
+import org.artcccj.leetcode.binary.tree.WidthOfBinaryTreeSolution;
 import org.junit.Test;
 
 public class WidthOfBinaryTreeSolutionTest {
