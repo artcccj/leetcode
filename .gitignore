@@ -24,8 +24,9 @@ hs_err_pid*
 
 # directory
 .idea
-.target
-.output
+target
+output
+out
 
 # IDE
 *.iml
